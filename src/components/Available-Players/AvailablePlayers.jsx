@@ -10,7 +10,7 @@ const AvailablePlayers = ({
 }) => {
   const playersData = use(playersPromise);
   return (
-    <div className="grid grid-cols-3 gap-5 my-10">
+    <div className="grid grid-cols-3 gap-5 my-10 max-sm:grid-cols-1 max-sm:my-5">
       {playersData.map((player) => (
         <Player
           key={player.id}

@@ -20,16 +20,16 @@ const Selected = ({
   };
   return (
     <div className="flex justify-between items-center border-1 border-[#1313131a] p-3 rounded-2xl">
-      <div className="flex items-center gap-5">
-        <img className="h-[75px] rounded-xl" src={player.img_link} alt="" />
+      <div className="flex items-center gap-5 max-sm:gap-3">
+        <img className="h-[75px] rounded-xl max-sm:h-[55px]" src={player.img_link} alt="" />
         <div>
-          <h3 className="text-2xl font-bold">{player.name}</h3>
-          <h5 className="text-[#13131399]">{player.category}</h5>
+          <h3 className="text-2xl font-bold max-sm:text-base">{player.name}</h3>
+          <h5 className="text-[#13131399] max-sm:text-sm">{player.category}</h5>
         </div>
       </div>
       <img
         onClick={handleClick}
-        className="mr-7 cursor-pointer"
+        className="mr-7 cursor-pointer max-sm:mr-3"
         src={DeleteIcon}
         alt=""
       />

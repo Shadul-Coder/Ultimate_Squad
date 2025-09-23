@@ -29,7 +29,7 @@ const App = () => {
         <HeroSection setCoin={setCoin}></HeroSection>
       </header>
       <main>
-        <section className="max-w-7xl mx-auto w-[97%]">
+        <section className="max-w-7xl mx-auto w-[97%] max-sm:w-[95%]">
           <MenuTittle
             selectedPlayers={selectedPlayers}
             toggle={toggle}
@@ -58,7 +58,7 @@ const App = () => {
         </section>
         <ToastContainer />
       </main>
-      <footer className="bg-black text-white mt-50">
+      <footer className="bg-black text-white mt-50 max-sm:mt-30">
         <Footer></Footer>
         <small className="block text-center text-[#ffffff99] border-t-1 border-[#ffffff26] py-6">
           &copy; 2025 Ultimate Squad. All Rights Reserved.

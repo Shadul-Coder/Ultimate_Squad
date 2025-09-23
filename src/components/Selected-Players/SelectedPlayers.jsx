@@ -8,7 +8,7 @@ const SelectedPlayers = ({
   buttonRef,
 }) => {
   return (
-    <div className="my-10 space-y-5">
+    <div className="my-10 space-y-5 max-sm:my-5 max-sm:space-y-3">
       {selectedPlayers.map((player) => (
         <Selected
           key={player.id}
@@ -22,7 +22,7 @@ const SelectedPlayers = ({
       {selectedPlayers.length !== 0 ? (
         <button
           onClick={() => buttonRef.current.click()}
-          className="mt-10 ml-2 btn text-black font-bold bg-[#E7FE29] border-none shadow-none rounded-lg outline-1 outline-[#1313131a] outline-offset-7"
+          className="mt-10 ml-2 btn text-black font-bold bg-[#E7FE29] border-none shadow-none rounded-lg outline-1 outline-[#1313131a] outline-offset-7 max-sm:mt-5 max-sm:outline-offset-5"
         >
           Add More Player
         </button>

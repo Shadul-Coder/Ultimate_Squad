@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Kane Williamson",
+    "img_link": "https://i.ibb.co.com/zW6WT622/Kane-Williamson.jpg",
+    "nationality": "New Zealand",
+    "category": "Batsman",
+    "hand": "Right Hand",
+    "price": 500000,
+    "rating": 8.5
+  },
+  {
+    "id": 2,
+    "name": "Ben Stokes",
+    "img_link": "https://i.ibb.co.com/wFnHrVRq/Ben-Stokes.jpg",
+    "nationality": "England",
+    "category": "All-rounder",
+    "hand": "Left Hand",
+    "price": 700000,
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "img_link": "https://i.ibb.co.com/F4Txj3w8/Steve-Smith.jpg",
+    "nationality": "Australia",
+    "category": "Batsman",
+    "hand": "Right Hand",
+    "price": 650000,
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "name": "Rashid Khan",
+    "img_link": "https://i.ibb.co.com/cS9XBcDK/Rashid-Khan.jpg",
+    "nationality": "Afghanistan",
+    "category": "Bowler",
+    "hand": "Right Hand",
+    "price": 400000,
+    "rating": 8.7
+  },
+  {
+    "id": 5,
+    "name": "Shaheen Afridi",
+    "img_link": "https://i.ibb.co.com/8DNtmwxq/Shaheen-Afridi.jpg",
+    "nationality": "Pakistan",
+    "category": "Bowler",
+    "hand": "Left Hand",
+    "price": 450000,
+    "rating": 8.6
+  },
+  {
+    "id": 6,
+    "name": "Shakib Al Hasan",
+    "img_link": "https://i.ibb.co.com/n8crHfSk/Shakib-Al-Hasan.jpg",
+    "nationality": "Bangladesh",
+    "category": "All-rounder",
+    "hand": "Left Hand",
+    "price": 500000,
+    "rating": 8.8
+  },
+  {
+    "id": 7,
+    "name": "Chris Gayle",
+    "img_link": "https://i.ibb.co.com/rftz20cY/Chris-Gayle.jpg",
+    "nationality": "West Indies",
+    "category": "Batsman",
+    "hand": "Left Hand",
+    "price": 550000,
+    "rating": 8.4
+  },
+  {
+    "id": 8,
+    "name": "Faf du Plessis",
+    "img_link": "https://i.ibb.co.com/DgbRQn37/Faf-du-Plessis.jpg",
+    "nationality": "South Africa",
+    "category": "Batsman",
+    "hand": "Right Hand",
+    "price": 600000,
+    "rating": 8.9
+  },
+  {
+    "id": 9,
+    "name": "Shai Hope",
+    "img_link": "https://i.ibb.co.com/GQBxqRMK/Shai-Hope.jpg",
+    "nationality": "West Indies",
+    "category": "Batsman",
+    "hand": "Right Hand",
+    "price": 480000,
+    "rating": 8.2
+  },
+  {
+    "id": 10,
+    "name": "Liam Livingstone",
+    "img_link": "https://i.ibb.co.com/4Zq1zFMd/Liam-Livingstone.jpg",
+    "nationality": "England",
+    "category": "All-rounder",
+    "hand": "Right Hand",
+    "price": 450000,
+    "rating": 8.3
+  },
+  {
+    "id": 11,
+    "name": "Mohammad Nabi",
+    "img_link": "https://i.ibb.co.com/vvHb9SPg/Mohammad-Nabi.jpg",
+    "nationality": "Afghanistan",
+    "category": "All-rounder",
+    "hand": "Right Hand",
+    "price": 350000,
+    "rating": 7.8
+  },
+  {
+    "id": 12,
+    "name": "David Warner",
+    "img_link": "https://i.ibb.co.com/wrbbh4rQ/David-Warner.jpg",
+    "nationality": "Australia",
+    "category": "Batsman",
+    "hand": "Left Hand",
+    "price": 550000,
+    "rating": 8.9
+  }
+]
